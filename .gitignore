@@ -1,0 +1,13 @@
+crypto/buildinf.h
+inc32/
+ms/bcb.mak
+mc/libeay32.def
+ms/nt.mak
+ms/ntdll.mak
+ms/ssleay32.def
+ms/version32.rc
+out32dll/
+tmp32dll/
+ms/libeay32.def
+MINFO
+build/
